@@ -1,1 +1,1 @@
-***installing needed libraries:*** pip install customtkinter
+***installing needed libraries:***    pip install customtkinter
